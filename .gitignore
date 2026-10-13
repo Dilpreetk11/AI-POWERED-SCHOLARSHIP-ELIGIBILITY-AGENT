@@ -1,0 +1,20 @@
+# Secrets: never commit these
+.env
+.streamlit/secrets.toml
+credentials.json
+service_account*.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,8 @@
+# Core dependencies for Scholarship Eligibility Agent
+pandas>=2.1.0
+streamlit>=1.30.0
+pytest>=8.0.0
+
+# AI Assistant & Environment Configuration
+google-genai>=2.0.0
+python-dotenv>=1.0.0

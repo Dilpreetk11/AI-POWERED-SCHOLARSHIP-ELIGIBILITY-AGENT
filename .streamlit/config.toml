@@ -1,0 +1,11 @@
+# Streamlit theme. Laurel green and ink, chosen to suit an academic awards tool.
+[theme]
+base = "light"
+primaryColor = "#3A5A40"
+backgroundColor = "#FBFBF8"
+secondaryBackgroundColor = "#EDF1EA"
+textColor = "#1E2A22"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
